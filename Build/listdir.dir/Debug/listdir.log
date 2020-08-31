@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/Bryan/Desktop/List/CMakeLists.txt
+  listdir.cpp
+C:\Users\Bryan\Desktop\List\boost_1_74_0\boost/bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+LINK : fatal error LNK1104: cannot open file 'libboost_filesystem-vc142-mt-gd-x64-1_74.lib'
